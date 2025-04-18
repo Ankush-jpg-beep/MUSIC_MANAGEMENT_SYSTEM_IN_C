@@ -1,1 +1,1 @@
-# MUSIC_MANAGEMENT_SYSTEM_IN_C
+# MUSIC MANAGEMENT SYSTEM by using a data structure using C
